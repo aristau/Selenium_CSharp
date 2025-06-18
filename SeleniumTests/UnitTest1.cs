@@ -4,7 +4,7 @@ using OpenQA.Selenium.Chrome;
 
 namespace SeleniumTests
 {
-    public class GoogleTest
+    public class ExampleTest
     {
         private IWebDriver driver;
 
@@ -15,14 +15,10 @@ namespace SeleniumTests
         }
 
         [Test]
-        public void SearchInGoogle()
+        public void VerifyPageTitle()
         {
-            driver.Navigate().GoToUrl("https://www.google.com");
-            var searchBox = driver.FindElement(By.Name("q"));
-            searchBox.SendKeys("Selenium C#");
-            searchBox.Submit();
-
-            Assert.That(driver.Title, Does.Contain("Google"));
+            driver.Navigate().GoToUrl("https://www.example.com");
+            Assert.That(driver.Title, Does.Contain("Example"));
         }
 
         [TearDown]
