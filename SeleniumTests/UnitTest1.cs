@@ -17,8 +17,8 @@ namespace SeleniumTests
         [Test]
         public void VerifyPageTitle()
         {
-            driver.Navigate().GoToUrl("https://www.example.com");
-            Assert.That(driver.Title, Does.Contain("Example"));
+            driver.Navigate().GoToUrl("https://the-internet.herokuapp.com/");
+            Assert.That(driver.Title, Does.Contain("The Internet"));
         }
 
         [TearDown]
