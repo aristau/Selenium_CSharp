@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "esGSnfiBFXc=",
+  "dgSpecHash": "5Tst+9RZBFw=",
   "success": true,
   "projectFilePath": "/Users/annaristau/Repositories/Selenium_CSharp/SeleniumTests/SeleniumTests.csproj",
   "expectedPackageFiles": [
     "/Users/annaristau/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
+    "/Users/annaristau/.nuget/packages/cucumber.cucumberexpressions/17.1.0/cucumber.cucumberexpressions.17.1.0.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/fluentassertions/8.3.0/fluentassertions.8.3.0.nupkg.sha512",
+    "/Users/annaristau/.nuget/packages/gherkin/30.0.0/gherkin.30.0.0.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "/Users/annaristau/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/microsoft.net.test.sdk/17.12.0/microsoft.net.test.sdk.17.12.0.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/microsoft.testplatform.objectmodel/17.12.0/microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/microsoft.testplatform.testhost/17.12.0/microsoft.testplatform.testhost.17.12.0.nupkg.sha512",
@@ -14,9 +17,13 @@
     "/Users/annaristau/.nuget/packages/nunit/4.2.2/nunit.4.2.2.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/nunit.analyzers/4.4.0/nunit.analyzers.4.4.0.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512",
+    "/Users/annaristau/.nuget/packages/reqnroll/2.4.1/reqnroll.2.4.1.nupkg.sha512",
+    "/Users/annaristau/.nuget/packages/reqnroll.nunit/2.4.1/reqnroll.nunit.2.4.1.nupkg.sha512",
+    "/Users/annaristau/.nuget/packages/reqnroll.tools.msbuild.generation/2.4.1/reqnroll.tools.msbuild.generation.2.4.1.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/selenium.support/4.33.0/selenium.support.4.33.0.nupkg.sha512",
     "/Users/annaristau/.nuget/packages/selenium.webdriver/4.33.0/selenium.webdriver.4.33.0.nupkg.sha512",
-    "/Users/annaristau/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+    "/Users/annaristau/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/annaristau/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
   ],
   "logs": []
 }
